@@ -1,2 +1,1 @@
-# prepcourse-oliver
-este es un repositorio de prueba
+este proyecto es una prueba para crear un repositorio
